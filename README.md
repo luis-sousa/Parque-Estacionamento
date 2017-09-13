@@ -5,7 +5,7 @@ Gestão de um parque de estacionamento escrito em C, recorrendo a estruturas e ar
 Nas imagens abaixo é possível ver as funcionalidades do programa.
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/luis-sousa/Parque-Estacionamento/master/menu_principal.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/luis-sousa/Parque-Estacionamento/master/menu_secundario.png)
